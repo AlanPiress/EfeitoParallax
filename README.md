@@ -1,5 +1,4 @@
 ## Projeto
-
 Criação de uma página web aplicando o efeito Parallax.
 
 ## Tecnologias Utilizadas:
@@ -7,5 +6,4 @@ Criação de uma página web aplicando o efeito Parallax.
 * CSS
 
 ## Projeto final:
-
 <img src="img/pf.png">
